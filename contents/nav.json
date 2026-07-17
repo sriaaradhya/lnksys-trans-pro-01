@@ -1,0 +1,7 @@
+{
+  "nav.home": "Home",
+  "nav.about": "About Us",
+  "nav.contact": "Contact",
+  "greeting.welcome": "Welcome to our website, {name}!",
+  "error.network": "Unable to connect to the server. Please try again."
+}
