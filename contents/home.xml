@@ -1,1 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<neighborhood>
+    <property id="101">
+        <address>123 Maple Street</address>
+        <type>Single Family</type>
+        <details>
+            <bedrooms>3</bedrooms>
+            <bathrooms>2</bathrooms>
+            <sqft>1500</sqft>
+        </details>
+        <price>$450,000</price>
+        <status>Available</status>
+    </property>
+    
+    <property id="102">
+        <address>456 Oak Avenue</address>
+        <type>Townhouse</type>
+        <details>
+            <bedrooms>2</bedrooms>
+            <bathrooms>2.5</bathrooms>
+            <sqft>1200</sqft>
+        </details>
+        <price>$380,000</price>
+        <status>Sold</status>
+    </property>
+</neighborhood>
 
