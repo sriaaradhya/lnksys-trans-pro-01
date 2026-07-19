@@ -1,0 +1,13 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "Über uns",
+    "contact": "Contact"
+  },
+  "greeting": {
+    "welcome": "Liebe Freunde,"
+  },
+  "errors": {
+    "network": "Verbindung zum Server nicht möglich. Bitte versuchen Sie es erneut."
+  }
+}
