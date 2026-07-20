@@ -1,0 +1,13 @@
+{
+  "navigation": {
+    "home": "홈",
+    "about": "회사 소개",
+    "contact": "문의하기"
+  },
+  "greeting": {
+    "welcome": "{name} 님, 저희 웹사이트에 오신 것을 환영합니다!"
+  },
+  "errors": {
+    "network": "서버에 연결할 수 없습니다. 다시 시도해주세요."
+  }
+}
