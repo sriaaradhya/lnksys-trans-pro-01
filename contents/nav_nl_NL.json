@@ -1,0 +1,13 @@
+{
+  "navigation": {
+    "home": "Start",
+    "about": "Over ons",
+    "contact": "Contact"
+  },
+  "greeting": {
+    "welcome": "Welkom op onze website"
+  },
+  "errors": {
+    "network": "Kan geen verbinding maken met de server. Probeer het opnieuw."
+  }
+}
